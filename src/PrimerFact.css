@@ -1,0 +1,24 @@
+.tarjeta-container {
+  display: flex;
+  height: 200px;
+  width: 70dvw;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 5px solid #141414;
+}
+
+.fact-container {
+  display: flex;
+  height: 180px;
+}
+
+.fact-container p {
+  padding: 1rem;
+}
+
+#btn-cambiar {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
